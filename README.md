@@ -3,4 +3,4 @@ This repository is a collection of various data structures and random code snipp
 
 - Find the how many time number is repeat using doubly linked list - [Code](https://github.com/RadeelAhmad/Data-Structure-Code/blob/main/Double-linked-list.cpp)
 - Find numbers with the same digit in tens and units places - [Code](https://github.com/RadeelAhmad/Data-Structure-Code/blob/main/Array1.cpp)
-- This code calculates and prints the number of cars needed to accommodate a given number of drivers and passengers, assuming each car holds one driver and up to four passengers - [Code]()
+- This code calculates and prints the number of cars needed to accommodate a given number of drivers and passengers, assuming each car holds one driver and up to four passengers - [Code](https://github.com/RadeelAhmad/Data-Structure-Code/blob/main/Code.cpp)
