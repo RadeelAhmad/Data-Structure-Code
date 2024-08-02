@@ -5,3 +5,4 @@ This repository is a collection of various data structures and random code snipp
 - Find numbers with the same digit in tens and units places - [Code](https://github.com/RadeelAhmad/Data-Structure-Code/blob/main/Array1.cpp)
 - This code calculates and prints the number of cars needed to accommodate a given number of drivers and passengers, assuming each car holds one driver and up to four passengers - [Code](https://github.com/RadeelAhmad/Data-Structure-Code/blob/main/Code.cpp)
 - Search number by indux and number - [Code](https://github.com/RadeelAhmad/Data-Structure-Code/blob/main/Code-1.cpp)
+- function which adds spaces before every capital in a word. Uncapitalize the whole string afterwards - [Code]()
