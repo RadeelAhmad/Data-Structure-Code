@@ -6,4 +6,5 @@ This repository is a collection of various data structures and random code snipp
 - This code calculates and prints the number of cars needed to accommodate a given number of drivers and passengers, assuming each car holds one driver and up to four passengers - [Code](https://github.com/RadeelAhmad/Data-Structure-Code/blob/main/Code.cpp)
 - Search number by indux and number - [Code](https://github.com/RadeelAhmad/Data-Structure-Code/blob/main/Code-1.cpp)
 - Function which adds spaces before every capital in a word. Uncapitalize the whole string afterwards - [Code](https://github.com/RadeelAhmad/Data-Structure-Code/blob/main/Code-2.cpp)
-- Function that returns the number of characters shared between two words - [Code]()
+- Function that returns the number of characters shared between two words - [Code](https://github.com/RadeelAhmad/Data-Structure-Code/blob/main/Code-3.cpp)
+- function that finds how many prime numbers there are, up to the given integer - [Code]()
