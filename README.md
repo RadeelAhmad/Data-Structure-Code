@@ -7,4 +7,4 @@ This repository is a collection of various data structures and random code snipp
 - Search number by indux and number - [Code](https://github.com/RadeelAhmad/Data-Structure-Code/blob/main/Code-1.cpp)
 - Function which adds spaces before every capital in a word. Uncapitalize the whole string afterwards - [Code](https://github.com/RadeelAhmad/Data-Structure-Code/blob/main/Code-2.cpp)
 - Function that returns the number of characters shared between two words - [Code](https://github.com/RadeelAhmad/Data-Structure-Code/blob/main/Code-3.cpp)
-- function that finds how many prime numbers there are, up to the given integer - [Code]()
+- Function that finds how many prime numbers there are, up to the given integer - [Code](https://github.com/RadeelAhmad/Data-Structure-Code/blob/main/Code-4.cpp)
