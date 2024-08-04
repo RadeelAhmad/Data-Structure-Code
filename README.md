@@ -8,7 +8,7 @@ This repository is a collection of various data structures and random code snipp
 - Function which adds spaces before every capital in a word. Uncapitalize the whole string afterwards - [Code](https://github.com/RadeelAhmad/Data-Structure-Code/blob/main/Code-2.cpp)
 - Function that returns the number of characters shared between two words - [Code](https://github.com/RadeelAhmad/Data-Structure-Code/blob/main/Code-3.cpp)
 - Function that finds how many prime numbers there are, up to the given integer - [Code](https://github.com/RadeelAhmad/Data-Structure-Code/blob/main/Code-4.cpp)
-- function that validates a password to conform to the following rules: -[Code]()
+- function that validates a password to conform to the following rules: -[Code](https://github.com/RadeelAhmad/Data-Structure-Code/blob/main/Code-5.cpp)
   
   **1-** Length between 6 and 24 characters.
 
@@ -18,3 +18,4 @@ This repository is a collection of various data structures and random code snipp
 
   **4-** At least one digit (0-9).
 
+- 
