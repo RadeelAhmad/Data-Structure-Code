@@ -18,4 +18,5 @@ This repository is a collection of various data structures and random code snipp
 
   **4-** At least one digit (0-9).
 
+- Function that divides an array into chunks of size n, where n is the length of each chunk - [Code]()
 - 
