@@ -18,6 +18,6 @@ This repository is a collection of various data structures and random code snipp
 
   **4-** At least one digit (0-9).
 
-- Function that divides an array into chunks of size n, where n is the length of each chunk - [Code]()
-- Function that sorts the positive numbers in ascending order, and keeps the negative numbers untouched - [Code]()
+- Function that divides an array into chunks of size n, where n is the length of each chunk - [Code](https://github.com/RadeelAhmad/Data-Structure-Code/blob/main/Code-6.cpp)
+- Function that sorts the positive numbers in ascending order, and keeps the negative numbers untouched - [Code](https://github.com/RadeelAhmad/Data-Structure-Code/blob/main/Code-7.cpp)
 - 
